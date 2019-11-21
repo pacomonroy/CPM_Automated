@@ -4,7 +4,11 @@ Esta es una herramienta que automatiza el método CPM, recibiendo como entrada u
 Instrucciones de uso:
 
 1.-Crear tabla de dependencias en excel con las columnas (NumActividad,Descripción,Duración,Dependencias)
+
 2.-Llenar la tabla con la información de las activiades de planeación del proyecto/evento
+
 3.-Exportar la tabla en formato .csv
+
 4.-Ejecutar el programa y seleccionar el archivo.csv
+
 5.-Visualizar resultados
