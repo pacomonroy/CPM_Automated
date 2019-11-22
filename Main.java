@@ -61,9 +61,6 @@ public class Main {
                     //Marcar el nodo actual como no visitado para buscar otro camino al destino
                     flag[I] = false;
                     
-                    //size of list reduced by 1
-                    //as the node is marked unvisited
-                    //hence removed from the list
                     
                     //el tamaño de la lista se reduce 1 mientras el nodo se marca como no visitado
                     size--;
